@@ -27,6 +27,7 @@
 - https://play.google.com/store/apps/details?id=idfit.proyectoidfit
 - https://play.google.com/store/apps/details?id=com.bitlet.dianabarcena
 - https://play.google.com/store/apps/details?id=com.trimedicals.trimedicals
+- https://play.google.com/store/apps/details?id=com.bluberapp.bluber
 
 
 <!--
